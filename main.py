@@ -69,7 +69,8 @@ class Square(Rectangle):
         Rectangle.height = self.side
 
 
-# Starter code
+# Starter code by nik
+
 rect = Rectangle(8, 4)
 print(rect)
 print(rect.get_diagonal())
